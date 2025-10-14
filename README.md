@@ -15,6 +15,7 @@
 
 <p align="center">
 <img src="previews/preview1.gif" alt="Shimmer effect" width="270px" />
+<img src="previews/preview2.gif" alt="Shimmer effect" width="285px" />
 </p>
 
 <a href="https://www.revenuecat.com/docs/getting-started/quickstart?utm_medium=organic&utm_source=github&utm_campaign=advocate">
