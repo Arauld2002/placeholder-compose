@@ -9,7 +9,7 @@
 
 <p align="center">
 ✨ Fully customizable placeholder loading effects for Jetpack Compose and KMP.
-</p><br>
+</p>
 
 ## 📷 Previews
 
