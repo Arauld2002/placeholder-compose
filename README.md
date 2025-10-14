@@ -18,13 +18,13 @@
 <img src="previews/preview2.gif" alt="Shimmer effect" width="281px" />
 </p>
 
-<a href="https://www.revenuecat.com/docs/getting-started/quickstart?utm_medium=organic&utm_source=github&utm_campaign=advocate">
-<img src="https://github.com/user-attachments/assets/28d587ad-787a-4f67-9e33-2768a631c6e5" align="right" width="12%"/>
-</a>
-
 ## ✍️ Technical Content
 
 If you want to explore how to create custom modifiers with the primary three different APIs, `Modifier.then()`, `Modifier.composed()`, and `Modifier.Node`, and demonstrate how RevenueCat’s Android SDK leverages `Modifier.Node` to deliver better UI performance, check out [Exploring Modifier.Node for creating custom Modifiers in Jetpack Compose](https://www.revenuecat.com/blog/engineering/compose-custom-modifier/).
+
+<a href="https://www.revenuecat.com/docs/getting-started/quickstart?utm_medium=organic&utm_source=github&utm_campaign=advocate">
+<img src="https://github.com/user-attachments/assets/28d587ad-787a-4f67-9e33-2768a631c6e5" align="right" width="12%"/>
+</a>
 
 ## Contribution 🧡
 Placeholder is maintained by [RevenueCat](https://www.revenuecat.com?utm_medium=organic&utm_source=github&utm_campaign=advocate). [RevenueCat SDK for Android](https://www.revenuecat.com/docs/getting-started/installation/android?utm_medium=organic&utm_source=github&utm_campaign=advocate) allows you to implement in-app subscriptions and a paywall system on top of Google Play Billing. Also, anyone can contribute to improving code, docs, or something following our [Contributing Guideline](https://github.com/RevenueCat/placeholder-compose/blob/main/CONTRIBUTING.md).
