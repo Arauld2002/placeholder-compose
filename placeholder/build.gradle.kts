@@ -14,7 +14,7 @@ plugins {
 apply(from = "${rootDir}/scripts/publish-module.gradle.kts")
 
 mavenPublishing {
-    val artifactId = "slide-to-unlock"
+    val artifactId = "placeholder"
     coordinates(
         Configuration.artifactGroup,
         artifactId,
@@ -23,7 +23,7 @@ mavenPublishing {
 
     pom {
         name.set(artifactId)
-        description.set("Fully customizable slide to unlock UI component for Jetpack Compose and KMP.")
+        description.set("Fully customizable placeholder loading effects for Jetpack Compose and KMP.")
     }
 }
 
